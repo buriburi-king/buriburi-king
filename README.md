@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/Gender-Male-orange?style=flat-square"> 
 <img src="https://img.shields.io/badge/MBTI-ISTJ-yellow?style=flat-square"> 
 <img src="https://img.shields.io/badge/Hobby-Game, Cafe tour, Running-green?style=flat-square">
-
+<img src="https://img.shields.io/badge/Hobby-Cafe tour-lightblue?style=flat-square">
+<img src="https://img.shields.io/badge/Hobby-Game-navy?style=flat-square">
+<img src="https://img.shields.io/badge/LOL-Master-purpple?style=flat-square">
 
 <details>
 <summary>🙋‍♂️ About me</summary>
