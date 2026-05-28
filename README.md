@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Age-27-red?style=flat-square"> 
 <img src="https://img.shields.io/badge/Gender-Male-orange?style=flat-square"> 
 <img src="https://img.shields.io/badge/MBTI-ISTJ-yellow?style=flat-square"> 
-<img src="https://img.shields.io/badge/Hobby-Game, cafe, running-green?style=flat-square">
+<img src="https://img.shields.io/badge/Hobby-Game, Cafe tour, running-green?style=flat-square">
 
 
 <details>
