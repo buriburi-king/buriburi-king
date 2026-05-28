@@ -6,7 +6,7 @@
 
 ### 현재 프론트엔드 개발자라는 새로운 목표를 향해 부트캠프에서 열심히 달리고 있습니다. 매일 새로운 것을 배우고 제 손으로 화면을 구현해 나가는 과정에서 즐거움을 느끼고 있습니다.
 <details>
-<summary>## 자기소개</summary>
+<summary>자기소개</summary>
 
 방향성**Goal** — 화려한 기술에 보다 사용자가 쓰면서 버벅거리지 않는 **편안한 화면**을 구현하는 것이 목표입니다.
 
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-<summary>## 주소</summary>
+<summary>**주소**</summary>
 
 Email
 
@@ -30,6 +30,6 @@ Notion — 공부 기록용 노션
 </details>
 
 <details>
-<summary>## 마무리</summary>
+<summary>마무리</summary>
 
 꾸준히 채워질 저의 깃허브 저장소를 지켜봐 주세요. 감사합니다!
