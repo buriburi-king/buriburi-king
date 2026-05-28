@@ -9,7 +9,7 @@
 
 
 <details>
-<summary>About me</summary>
+<summary>🙋‍♂️ About me</summary>
 
 **방향성(Goal)** — 화려한 기술에 보다 사용자가 쓰면서 버벅거리지 않는 **편안한 화면**을 구현하는 것이 목표입니다.
 
@@ -21,7 +21,12 @@
 </details>
 
 <details>
-<summary>Contact & Links</summary>
+<summary>🛠 Tech Stacks</summary>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </details>
+  
+<details>
+<summary>🔗 Contact & Links</summary>
 
 Email
 
@@ -33,7 +38,7 @@ Notion
 </details>
 
 <details>
-<summary>Outro</summary>
+<summary>💬 Outro</summary>
 
 현재 프론트엔드 개발자라는 새로운 목표를 향해 부트캠프에서 열심히 달리고 있습니다.
 
