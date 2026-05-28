@@ -9,11 +9,11 @@
 <details>
 <summary>자기소개</summary>
 
-**방향성Goal** — 화려한 기술에 보다 사용자가 쓰면서 버벅거리지 않는 **편안한 화면**을 구현하는 것이 목표입니다.
+**방향성(Goal)** — 화려한 기술에 보다 사용자가 쓰면서 버벅거리지 않는 **편안한 화면**을 구현하는 것이 목표입니다.
 
-**잠재력Potential** — 비전공자라 처음엔 쏟아지는 학습량에 숨이 막히기도 했지만, 스폰지처럼 새로운 지식을 **흡성대법**하며 성장판을 열어가고 있습니다.
+**잠재력(Potential)** — 비전공자라 처음엔 쏟아지는 학습량에 숨이 막히기도 했지만, 스폰지처럼 새로운 지식을 **흡성대법**하며 성장판을 열어가고 있습니다.
 
-**마인드셋Mindset** — 관심 없는 분야는 쳐다도 안 보지만, 프론트엔드처럼 한번 꽂힌 분야에는 무섭게 파고드는 **끈기**가 있습니다.
+**마인드셋(Mindset)** — 관심 없는 분야는 쳐다도 안 보지만, 프론트엔드처럼 한번 꽂힌 분야에는 무섭게 파고드는 **끈기**가 있습니다.
 
 **프로젝트 경험 및 성과(Project & Result)** — 부트캠프 시작 이후 하루도 빠짐없이 매일 공부한 내용을 노션에 기록하는 나만의 **프로젝트**를 진행 중입니다. 말뿐이 아닌 성실함을 데이터로 증명하고 있습니다.
 </details>
@@ -25,7 +25,7 @@ Email
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buriburiburi1022@gmail.com) **buriburiburi1022@gmail.com**
 
-Notion — 공부 기록용 노션
+Notion
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/14-d4c60aa8265f82498eac81a4e987864e?source=copy_link)
 </details>
