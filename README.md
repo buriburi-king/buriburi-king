@@ -5,13 +5,13 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&vCenter=true&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
 
-<img src="https://img.shields.io/badge/Age-27-red?style=flat-square"> 
-<img src="https://img.shields.io/badge/Gender-Male-orange?style=flat-square"> 
-<img src="https://img.shields.io/badge/MBTI-ISTJ-yellow?style=flat-square"> 
-<img src="https://img.shields.io/badge/Hobby-Running-green?style=flat-square">
-<img src="https://img.shields.io/badge/Hobby-Cafe tour-lightblue?style=flat-square">
-<img src="https://img.shields.io/badge/Hobby-Game-4169E1?style=flat-square">
-<img src="https://img.shields.io/badge/LOL-Master-4B0082?style=flat-square">
+<img src="https://img.shields.io/badge/Age-27-FF6B6B?style=flat-square"> 
+<img src="https://img.shields.io/badge/Gender-Male-FF922B?style=flat-square"> 
+<img src="https://img.shields.io/badge/MBTI-ISTJ-FCC419?style=flat-square"> 
+<img src="https://img.shields.io/badge/Hobby-Running-51CF66?style=flat-square">
+<img src="https://img.shields.io/badge/Hobby-Cafe tour-339AF0?style=flat-square">
+<img src="https://img.shields.io/badge/Hobby-Game-3F51B5?style=flat-square">
+<img src="https://img.shields.io/badge/LOL-Master-9C27B0?style=flat-square">
 
 <details>
 <summary>🙋‍♂️ About me</summary>
