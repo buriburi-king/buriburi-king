@@ -3,7 +3,8 @@
 # 안녕하세요, 배움의 즐거움을 알고 끈기있게 성장하는 개발자 💻
 
   
-<img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&center=true&vCenter=true&width=1000&height=80&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
+<img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&vCenter=true&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
+
 
 
 
