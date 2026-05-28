@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&bgColor=0:D0E1FD,100:E8D7FF&height=200&section=header&text=Minwoo%20|%20Frontend&fontSize=70)
 
 # 안녕하세요, 배움의 즐거움을 알고 끈기있게 성장하는 개발자 💻
-<div align="center">
+
   
 <img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&center=true&vCenter=true&width=1000&height=80&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
 
-</div>
+
 
 <details>
 <summary>자기소개</summary>
