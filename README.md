@@ -5,7 +5,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&vCenter=true&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
 
-
+<img src="https://img.shields.io/badge/Age-2X-blue?style=flat-square"> <img src="https://img.shields.io/badge/Gender-Male-lightblue?style=flat-square"> <img src="https://img.shields.io/badge/MBTI-ENFP-ORANGE?style=flat-square"> <img src="https://img.shields.io/badge/Hobby-Gaming-green?style=flat-square">
 
 
 <details>
