@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Hobby-Running-51CF66?style=flat-square">
 <img src="https://img.shields.io/badge/Hobby-Cafe tour-339AF0?style=flat-square">
 <img src="https://img.shields.io/badge/Hobby-Game-3F51B5?style=flat-square">
-<img src="https://img.shields.io/badge/LOL-Master-9C27B0?style=flat-square">
+<img src="https://img.shields.io/badge/LOL-Master-B39DDB?style=flat-square">
 
 <details>
 <summary>🙋‍♂️ About me</summary>
