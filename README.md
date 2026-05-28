@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minwoo%20|%20Frontend&fontSize=70)
 
-# 안녕하세요, 배움의 즐거움을 알고 끈기있게 성장하는 개발자 **나민우**입니다
+# 안녕하세요, 배움의 즐거움을 알고 끈기있게 성장하는 개발자 <font color="#C7A6FF">나민우</font>입니다
 
 ### 현재 프론트엔드 개발자라는 새로운 목표를 향해 부트캠프에서 열심히 달리고 있습니다. 매일 새로운 것을 배우고 제 손으로 화면을 구현해 나가는 과정에서 즐거움을 느끼고 있습니다.
 
@@ -18,7 +18,7 @@
 
 Email
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buriburiburi1022@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:buriburiburi1022@gmail.com) **buriburiburi1022@gmail.com**
 
 Notion — 공부 기록용 노션
 
