@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/MBTI-ISTJ-yellow?style=flat-square"> 
 <img src="https://img.shields.io/badge/Hobby-Running-green?style=flat-square">
 <img src="https://img.shields.io/badge/Hobby-Cafe tour-lightblue?style=flat-square">
-<img src="https://img.shields.io/badge/Hobby-Game-indigoblue?style=flat-square">
-<img src="https://img.shields.io/badge/LOL-Master-pupple?style=flat-square">
+<img src="https://img.shields.io/badge/Hobby-Game-4169E1?style=flat-square">
+<img src="https://img.shields.io/badge/LOL-Master-4B0082?style=flat-square">
 
 <details>
 <summary>🙋‍♂️ About me</summary>
