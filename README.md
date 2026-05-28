@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&bgColor=0:D0E1FD,100:E8D7FF&height=300&section=header&text=Minwoo%20|%20Frontend&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&bgColor=0:D0E1FD,100:E8D7FF&height=200&section=header&text=Minwoo%20|%20Frontend&fontSize=70)
 
 # 안녕하세요, 배움의 즐거움을 알고 끈기있게 성장하는 개발자 💻
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=C7A6FF&size=40&weight=600&vCenter=true&lines=%EB%82%98%EB%AF%BC%EC%9A%B0" />
+</p>
 
 
-### 현재 프론트엔드 개발자라는 새로운 목표를 향해 부트캠프에서 열심히 달리고 있습니다. 매일 새로운 것을 배우고 제 손으로 화면을 구현해 나가는 과정에서 즐거움을 느끼고 있습니다.
 <details>
 <summary>자기소개</summary>
 
@@ -30,6 +31,12 @@ Notion — 공부 기록용 노션
 </details>
 
 <details>
-**<summary>마무리</summary>**
+<summary>마무리</summary>
 
-꾸준히 채워질 저의 깃허브 저장소를 지켜봐 주세요. 감사합니다!
+현재 프론트엔드 개발자라는 새로운 목표를 향해 부트캠프에서 열심히 달리고 있습니다.
+
+매일 새로운 것을 배우고 제 손으로 화면을 구현해 나가는 과정에서 즐거움을 느끼고 있습니다.
+
+꾸준히 채워질 저의 깃허브 저장소를 지켜봐 주세요. 
+
+**감사합니다!**
